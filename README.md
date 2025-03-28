@@ -1,6 +1,6 @@
 # React Native CLI Project  
 
-A React Native mobile application built with TypeScript, Redux Toolkit, and Firebase.
+A React Native mobile application built with TypeScript, Redux Toolkit
 
 ## 🚀 Features
 - Redux Toolkit for state management
